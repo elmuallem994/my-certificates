@@ -18,7 +18,7 @@ Here you can find all my verified cybersecurity certificates, uploaded in PDF fo
 ---
 
 ### 3. TryHackMe – *Cyber Security 101 Learning Path*
-📄 [Download Certificate (PDF)](./THM-JA6QJ0GQ0G.pdf)
+📄 [Download Certificate (PDF)](./THM-JA6QJ0GQOG.pdf)
 
 ---
 
