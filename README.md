@@ -8,7 +8,7 @@ Here you can find all my verified cybersecurity certificates, uploaded in PDF fo
 ## 🏅 Certificates
 
 ### 1. Google – *Foundations of Cybersecurity*
-📄 [Download Certificate (PDF)](./Coursera%20POSKYFWFTPC0.pdf)
+📄 [Download Certificate (PDF)](./Coursera-P0SKYFWFTPC0.pdf)
 
 ---
 
